@@ -38,6 +38,7 @@ cd multi-theme-switcher-app
 
 ## 🌐 Live App
 
-🔗 https://adarsh-vishwakarma-react-frontend-d-alpha.vercel.app/
+🔗 [Live App](https://adarsh-vishwakarma-react-frontend-d-alpha.vercel.app/)
+
 
 
