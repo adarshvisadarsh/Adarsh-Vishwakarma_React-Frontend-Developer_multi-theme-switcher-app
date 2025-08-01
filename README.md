@@ -33,5 +33,6 @@ src/
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/your-username/multi-theme-switcher-app.git
+git clone https://github.com/adarshvisadarsh/multi-theme-switcher-app.git
 cd multi-theme-switcher-app
+
